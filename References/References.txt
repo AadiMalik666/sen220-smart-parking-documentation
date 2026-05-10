@@ -1,0 +1,7 @@
+1.	Bahria University Islamabad Campus, Department of Computer Science. SEN 220 Software Engineering Assignment #3 Brief, spring 2026.
+2.	Sommerville, I. Software Engineering. Pearson Education.
+3.	Pressman, R. S. and Maxim, B. R. Software Engineering: A Practitioner's Approach. McGraw-Hill.
+4.	Fowler, M. UML Distilled: A Brief Guide to the Standard Object Modeling Language. Addison-Wesley.
+5.	IEEE Computer Society. IEEE Recommended Practice for Software Requirements Specifications.
+6.	Object Management Group. Unified Modeling Language Specification.
+7.	General observation of university parking workflows, gate verification, digital permits, QR-based access control, and parking management dashboards.
