@@ -156,8 +156,7 @@ The **University-Based Smart Parking System** provides a digital solution using:
 ---
 
 # 1.4 Use Case Diagram
-
-![Use Case Diagram](images/use-case-diagram.png)
+mv "Diagrams/Use Case Diagram.jpg" Diagrams/use-case-diagram.jpg
 
 ---
 
