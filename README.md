@@ -218,8 +218,7 @@ The **University-Based Smart Parking System** provides a digital solution using:
 
 ## 2.1 Context Diagram
 
-![Context Diagram](images/context-diagram.png)
-
+![Context Diagram](Diagrams/context-diagram.png)
 ### Description
 
 The context diagram represents the Smart Parking System as a single process interacting with:
@@ -236,7 +235,7 @@ The context diagram represents the Smart Parking System as a single process inte
 
 ## 2.2 DFD Level 0
 
-![DFD Level 0](images/dfd-level-0.png)
+![DFD Level 0](Diagrams/dfd-level-0.png)
 
 ### Major Processes
 
@@ -252,7 +251,7 @@ The context diagram represents the Smart Parking System as a single process inte
 
 ## 2.3 Class Diagram
 
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](Diagrams/class-diagram.png)
 
 ### Core Classes
 
@@ -271,7 +270,7 @@ The context diagram represents the Smart Parking System as a single process inte
 
 ## 2.4 Sequence Diagram — Reserve & Enter Parking
 
-![Sequence Diagram](images/sequence-diagram.png)
+![Sequence Diagram](Diagrams/sequence-diagram.png)
 
 ### Flow
 
@@ -288,7 +287,7 @@ The context diagram represents the Smart Parking System as a single process inte
 
 ## 2.5 Activity Diagram
 
-![Activity Diagram](images/activity-diagram.png)
+![Activity Diagram](Diagrams/activity-diagram.png)
 
 ### Workflow
 
@@ -304,7 +303,7 @@ The context diagram represents the Smart Parking System as a single process inte
 
 ## 2.6 State Machine Diagram — Parking Slot
 
-![State Diagram](images/state-diagram.png)
+![State Diagram](Diagrams/state-diagram.png)
 
 ### Slot States
 
@@ -321,7 +320,7 @@ The context diagram represents the Smart Parking System as a single process inte
 
 ## 3.1 Layered Architecture
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](Diagrams/architecture-diagram.png)
 
 ### Architecture Layers
 
@@ -437,7 +436,7 @@ chore:
 
 ## 4.5 Project Planning — Timeline
 
-![PERT Chart](images/pert-chart.png)
+![PERT Chart](Diagrams/pert-chart.png)
 
 ### Major Tasks
 
