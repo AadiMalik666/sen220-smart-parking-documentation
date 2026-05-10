@@ -235,7 +235,7 @@ The context diagram represents the Smart Parking System as a single process inte
 
 ## 2.2 DFD Level 0
 
-![DFD Level 0](Diagrams/dfd-level-0.png)
+![DFD Level 0](./Diagrams/dfd-level-0.png)
 
 ### Major Processes
 
