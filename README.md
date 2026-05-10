@@ -403,7 +403,7 @@ External Device Layer
 ### Repository
 
 ```text
-(https://github.com/AadiMalik666/sen220-smart-parking-documentation/tree/main)
+(https://github.com/AadiMalik666/sen220-smart-parking-documentation)
 ```
 
 ### Branch Strategy
@@ -427,10 +427,14 @@ chore:
 
 ## 4.4 Team Roles & Responsibilities
 
-| Team Member | Role | Responsibilities |
-|---|---|---|
-| Member 1 | Requirements & Architecture Lead | Requirements, architecture, database design |
-| Member 2 | Modeling & Testing Lead | UML diagrams, DFDs, testing documentation |
+| 👤 Team Member          | 🎯 Role                           | 📌 Main Responsibilities                                                                                                                                                                                   |
+| ----------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Muhammad Zia Ullah**  | Documentation & Requirements Lead | Prepare title page, abstract, introduction, objectives, problem statement, project scope, stakeholders, functional & non-functional requirements, business rules, and ensure final formatting consistency. |
+| **Zaryab Ishaq**        | System Design & Architecture Lead | Design system architecture, database schema mapping, security considerations, context diagram, and Data Flow Diagrams (DFDs).                                                                              |
+| **Abdul Ahad Razaq**    | Modeling & Diagram Lead           | Develop UML diagrams including use case diagram, use case descriptions, class diagram, sequence diagram, activity diagram, state machine diagram, and diagram appendix.                                    |
+| **Rana Muhammad Bilal** | Testing & Project Planning Lead   | Prepare test plan, test cases, version control (GitHub workflow), Gantt/PERT chart, and risk analysis.                                                                                                     |
+| **All Members**         | Final Review Team                 | Review complete report, ensure consistency with requirements, verify diagrams, fix formatting issues, add GitHub evidence, and finalize submission file.                                                   |
+
 
 ---
 
