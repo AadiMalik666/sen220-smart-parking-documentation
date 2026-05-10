@@ -403,7 +403,7 @@ External Device Layer
 ### Repository
 
 ```text
-github.com/your-username/sen220-smart-parking-system-report
+(https://github.com/AadiMalik666/sen220-smart-parking-documentation/tree/main)
 ```
 
 ### Branch Strategy
